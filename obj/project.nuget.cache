@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "INIz//r7yiQZeYYCaK7cezAkug/egr3U5JVix3ZCOnV2SfwftEwLDSJecMaqUCtQe0xk0i/IP4NN/KGbBPZUVw==",
+  "success": true,
+  "projectFilePath": "F:\\TECH\\c#\\aws_bill\\aws_bill.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simbu\\.nuget\\packages\\awssdk.core\\3.7.200.19\\awssdk.core.3.7.200.19.nupkg.sha512",
+    "C:\\Users\\simbu\\.nuget\\packages\\awssdk.s3\\3.7.201.17\\awssdk.s3.3.7.201.17.nupkg.sha512"
+  ],
+  "logs": []
+}
